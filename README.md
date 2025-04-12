@@ -1,6 +1,7 @@
 ## Hi there 👋
 My pronouns are she/her.
-Ask me about art history and libraries! They are 2 things I am very passionate about. I'm currently studying Library and Information Science.
+
+I'm currently studying Library and Information Science. Ask me about Art History and libraries! They are 2 things I am very passionate about. 
 <!--
 **olivia-bloskey/olivia-bloskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
